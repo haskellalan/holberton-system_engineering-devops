@@ -1,2 +1,2 @@
 #!/bin/bash
-mv /tmp/holberton /tmp/betty
+mv /tmp/betty /tmp/holberton
